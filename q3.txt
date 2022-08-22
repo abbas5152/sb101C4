@@ -1,0 +1,6 @@
+ACID means atomic,Consistency,Isolates and Durable.
+
+Atomic:it means all the sql query must be executed or none of the executed.
+Consistency: it means database as same state after completing transaction.
+Isolated:As word suggest two transaction must be independent of each other.
+Durable: It means after performing transaction update data should be there in database.
